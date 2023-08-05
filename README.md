@@ -1,6 +1,8 @@
 # Base Adjustment
 Welcome, in this branch an adjustment on the base of the screen robot have been made to add wheels to it
-Note that the stl file after adjustment have been uploaded as ().
+
+Note that the stl file after adjustment have been uploaded as ([Base-adjustment/base2.stl](https://github.com/oAmadu/3D-Module/blob/c27705071b646199ad525e1d86b3d09b3da9b8cb/Base-adjustment/base2.stl)).
+
 Here's some pictures of the adjustment
 ![image](https://github.com/oAmadu/3D-Module/assets/90242708/23e714a6-da25-4468-a51b-6e04d255652a)
 ![image](https://github.com/oAmadu/3D-Module/assets/90242708/bcb67651-5d01-47c4-91c7-0f8c4e640364)
